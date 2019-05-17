@@ -2,7 +2,7 @@
 
 [React Starter Kit](https://www.reactstarterkit.com) + [Material UI](https://material-ui.com/) + [Redux](https://redux.js.org/) is an opinionated boilerplate for web development (created originally by [@kriasoft](https://github.com/kriasoft)) built on top of [Node.js](https://nodejs.org/),
 [Express](http://expressjs.com/), [GraphQL](http://graphql.org/),
-[React](https://facebook.github.io/react/) and [React Intl](https://github.com/formatjs/react-intl), containing modern web development
+[React](https://facebook.github.io/react/), [React Intl](https://github.com/formatjs/react-intl) and [Apollo Client](https://www.apollographql.com/docs/react/api/apollo-client), containing modern web development
 tools such as [Webpack](http://webpack.github.io/), [Babel](http://babeljs.io/)
 and [Browsersync](http://www.browsersync.io/). Helping you to stay productive
 following the best practices. A solid starting point for both professionals
