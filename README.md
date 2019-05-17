@@ -1,4 +1,4 @@
-## React Starter Kit + Material UI + Redux — "[isomorphic](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)" web app boilerplate &nbsp; <a href="https://github.com/pedrogoncalvesk/react-starter-kit/stargazers"><img src="https://img.shields.io/github/stars/kriasoft/react-starter-kit.svg?style=social&label=Star&maxAge=3600" height="20"></a>
+## React Starter Kit + Material UI + Redux — "[isomorphic](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)" web app boilerplate &nbsp; <a href="https://github.com/pedrogoncalvesk/react-starter-kit/stargazers"><img src="https://img.shields.io/github/stars/pedrogoncalvesk/react-starter-kit.svg?style=social&label=Star&maxAge=3600" height="20"></a>
 
 [React Starter Kit](https://www.reactstarterkit.com) + [Material UI](https://material-ui.com/) + [Redux](https://redux.js.org/) is an opinionated boilerplate for web development (created originally by [@kriasoft](https://github.com/kriasoft)) built on top of [Node.js](https://nodejs.org/),
 [Express](http://expressjs.com/), [GraphQL](http://graphql.org/),
